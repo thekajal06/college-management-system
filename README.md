@@ -1,7 +1,7 @@
 # 🎓 College Management System
 
-A full-stack College Management System web application developed using Node.js, Express.js, MongoDB, HTML, CSS, and JavaScript.  
-This system automates academic and administrative activities such as student management, faculty management, attendance tracking, and result processing.
+A full-stack College Management System web application developed using Node.js, Express.js, MongoDB, HTML, CSS, and JavaScript.
+This project is inspired from open-source implementations and further customized by me.
 
 ---
 
@@ -162,5 +162,5 @@ Error handling & debugging
 
 
 👨‍💻 Author
-Divyanshu Maurya
-GitHub: https://github.com/Divyanshu-500
+Kajal Maurya
+GitHub: https://github.com/thekajal06
