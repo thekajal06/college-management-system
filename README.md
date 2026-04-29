@@ -160,6 +160,23 @@ Git workflow
 Error handling & debugging
 
 
+## 📸 Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Role Selection
+![Role](screenshots/role-selection.png)
+
+### Admin Register
+![Register](screenshots/admin-register.png)
+
+### Admin Login
+![Login](screenshots/admin-login.png)
+
+### Student Login
+![Student](screenshots/student-login.png)
+
 
 👨‍💻 Author
 Kajal Maurya
